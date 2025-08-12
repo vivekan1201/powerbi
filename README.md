@@ -15,6 +15,9 @@ This project is an **interactive Power BI dashboard** that provides a detailed c
 - **Price Comparison**: Average MMR (Manheim Market Report) vs. selling price trend over time.
 - **Dynamic Filters**: Filter data by seller, vehicle body, transmission, company, color, and state.
 
+  <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9684d67f-e8ca-4e69-abc0-0d456e9e460e" />
+
+
 ---
 
 ## 🛠️ Technologies Used
@@ -22,7 +25,3 @@ This project is an **interactive Power BI dashboard** that provides a detailed c
 - **DAX** – Custom measures for KPIs and comparisons.
 - **CSV Dataset** – Vehicle sales and specifications.
 - **Data Modeling** – Relationships between fact and dimension tables.
-
----
-
-## 📂 Project Structure
