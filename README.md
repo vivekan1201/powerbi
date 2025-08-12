@@ -14,8 +14,7 @@ This project is an **interactive Power BI dashboard** that provides a detailed c
 - **Vehicle Attribute Analysis**: Breakdown by body type, transmission, and color.
 - **Price Comparison**: Average MMR (Manheim Market Report) vs. selling price trend over time.
 - **Dynamic Filters**: Filter data by seller, vehicle body, transmission, company, color, and state.
-
-  <img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9684d67f-e8ca-4e69-abc0-0d456e9e460e" />
+<img width="1692" height="1020" alt="image" src="https://github.com/user-attachments/assets/29db7180-a12e-4783-91a9-4be0f28d65b7" />
 
 
 ---
